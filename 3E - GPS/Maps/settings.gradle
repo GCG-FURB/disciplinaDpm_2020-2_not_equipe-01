@@ -1,0 +1,3 @@
+include ':currentplacedetailsonmap'
+rootProject.name='Maps'
+include ':app'

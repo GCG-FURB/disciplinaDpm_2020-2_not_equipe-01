@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrabalhoFinal</string>
+    <string name="welcome">"Bem vindo!"</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
